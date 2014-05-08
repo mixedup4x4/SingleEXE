@@ -1,7 +1,6 @@
 SingleEXE
 =========
-!https://travis-ci.org/mixedup4x4/SingleEXE.svg!:https://travis-ci.org/mixedup4x4/SingleEXE
-=========
+image:https://travis-ci.org/mixedup4x4/SingleEXE.svg["Build Status", link="https://travis-ci.org/mixedup4x4/SingleEXE"]
 
 Create a Single Windows .exe from your .py for distrobution
 
